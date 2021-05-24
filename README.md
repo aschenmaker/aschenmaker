@@ -1,4 +1,5 @@
-### Hi there ✨
+### Hi there ✨ 
+![github-viewers](https://komarev.com/ghpvc/?username=aschenmaker&style=flat-square)
 
 I'm a Go and Javascript developer
 
