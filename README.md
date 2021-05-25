@@ -13,6 +13,8 @@ I'm a Go and Javascript developer
 - <https://cqs.es>
 
 ### Tech & Tools🤔
+![github-viewers](https://komarev.com/ghpvc/?username=aschenmaker&style=flat-square)
+
 ![C][shield_c] ![GO][shield_go] ![Python][shield_python]
 ![HTML5][shield_html5]![CSS3][shield_css3] ![JavaScript][shield_javascript] ![TypeScript][shield_typescript]![node-js][shield_node-js] ![Vue][shield_vue-js]![electron][shield_electron]
 ![Nginx][shield nginx]![Mysql][shield_mysql]![Redis][shield_redis]![Linux][shield_linux]
