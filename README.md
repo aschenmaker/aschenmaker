@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aschenmaker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
 
-I'm a Go and Javascript developer
+I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascript]
 
 - 🔭 I’m currently studying at China University of Geoscience(Wuhan)
 - 🌱 I’m currently majoying in **Software Engneering**
@@ -15,11 +15,11 @@ I'm a Go and Javascript developer
 ### Tech & Tools🤔
 ![github-viewers](https://komarev.com/ghpvc/?username=aschenmaker&style=flat-square)
 
-![C][shield_c] ![GO][shield_go] ![Python][shield_python]
-![HTML5][shield_html5]![CSS3][shield_css3] ![JavaScript][shield_javascript] ![TypeScript][shield_typescript]![node-js][shield_node-js] ![Vue][shield_vue-js]![electron][shield_electron]
+<!-- ![C][shield_c] ![Python][shield_python]
+![HTML5][shield_html5]![CSS3][shield_css3] ![TypeScript][shield_typescript]![node-js][shield_node-js] ![Vue][shield_vue-js]![electron][shield_electron]
 ![Nginx][shield nginx]![Mysql][shield_mysql]![Redis][shield_redis]![Linux][shield_linux]
 ![Docker][shield_docker]![k8s][shield_kubernetes]
-![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code]![Goland][shield jetbrains]
+![Git][shield_git] ![GitHub][shield_github] ![VS Code][shield_vs-code]![Goland][shield jetbrains] -->
 
 
 <!-- Shield Links -->
