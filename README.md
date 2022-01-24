@@ -15,6 +15,8 @@ I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascrip
 ### Tech & Tools🤔
 ![github-viewers](https://komarev.com/ghpvc/?username=aschenmaker&style=flat-square)
 
+![snake gif](https://github.com/aschenmaker/aschenmaker/blob/output/github-contribution-grid-snake.svg)
+
 <!-- ![C][shield_c] ![Python][shield_python]
 ![HTML5][shield_html5]![CSS3][shield_css3] ![TypeScript][shield_typescript]![node-js][shield_node-js] ![Vue][shield_vue-js]![electron][shield_electron]
 ![Nginx][shield nginx]![Mysql][shield_mysql]![Redis][shield_redis]![Linux][shield_linux]
