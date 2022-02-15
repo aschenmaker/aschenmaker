@@ -6,7 +6,7 @@ I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascrip
 
 - 🔭 I’m currently studying at China University of Geoscience(Wuhan)
 - 🌱 I’m currently majoying in **Software Engneering**
-- 📫 How to reach me: aschen@cug.edu.cn
+- 📫 How to reach me: i@cqs.es
 
 ### Find Me
 - <https://github.com/aschemaker>
