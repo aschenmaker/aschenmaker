@@ -4,7 +4,7 @@
 
 I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascript]
 
-- 🔭 I’m currently studying at China University of Geoscience(Wuhan)
+- 🔭 I’m currently studying at - 
 - 🌱 I’m currently majoying in **Software Engneering**
 - 📫 How to reach me: i@cqs.es
 
