@@ -1,11 +1,9 @@
 # Costa  ✨ 
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=aschenmaker&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px"> -->
+## Hi! 
 
-I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascript]
-
-- 🔭 I’m currently studying at - 
-- 🌱 I’m currently majoying in **Software Engneering**
+- 🔭 I’m currently working in cloud storage and distributed databases
 - 📫 How to reach me: i@cqs.es
 
 ### Find Me
@@ -13,9 +11,11 @@ I'm a Go and Javascript developer ![GO][shield_go]![JavaScript][shield_javascrip
 - <https://cqs.es>
 
 ### Tech & Tools🤔
+![Cpp][shield_cpp] ![GO][shield_go] ![][shield_linux]
+
 ![github-viewers](https://komarev.com/ghpvc/?username=aschenmaker&style=flat-square)
 
-![snake gif](https://github.com/aschenmaker/aschenmaker/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/aschenmaker/aschenmaker/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![C][shield_c] ![Python][shield_python]
 ![HTML5][shield_html5]![CSS3][shield_css3] ![TypeScript][shield_typescript]![node-js][shield_node-js] ![Vue][shield_vue-js]![electron][shield_electron]
